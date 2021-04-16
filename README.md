@@ -51,11 +51,12 @@ Set Environment Variable of Lambda.
 
 # Note
 
-The demo will not work on this project alone.<br>Requires AmazonConnect ContactFlow and another Lambda, and so on.<br>Please refer to here.
+The demo will not work on this project alone.<br>Requires AmazonConnect ContactFlow and another Lambda, and so on.<br>Please refer to [here](https://qiita.com/yuga-t/items/3f827bd6fd3a8a509646).
 
 # References
 
-https://github.com/amazon-connect/amazon-connect-realtime-transcription
+- https://github.com/amazon-connect/amazon-connect-realtime-transcription
+- https://github.com/googleapis/java-speech/blob/master/samples/snippets/src/main/java/com/example/speech/InfiniteStreamRecognize.java
 
 # License
 
